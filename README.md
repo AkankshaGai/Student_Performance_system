@@ -11,4 +11,4 @@
 
 ![architectur](https://github.com/AkankshaGai/Student_Performance_system/assets/92912422/141c1f7a-b543-40a3-a6bc-cb15339710ff)
 
-####### Can see more detail in assest folder
+###### Can see more detail in assest folder
